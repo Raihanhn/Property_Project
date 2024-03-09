@@ -116,3 +116,13 @@ header {
   display: flex;
   align-items: center;
 }
+
+.home-text {
+  padding-left: 35px;
+}
+
+.home-text h1 {
+  color: var(--bg-color);
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
