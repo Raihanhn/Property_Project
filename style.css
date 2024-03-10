@@ -189,3 +189,25 @@ header {
 .sales .box p {
   font-size: 0.938rem;
 }
+
+.heading {
+  text-align: center;
+}
+
+.heading span {
+  font-weight: 500;
+  color: var(--main-color);
+}
+
+.heading h2 {
+  font-size: 1.7rem;
+}
+
+.heading p {
+  font-size: 0.938rem;
+}
+
+.properties {
+  background-color: #fbfbfb;
+  border-radius: 2rem;
+}
