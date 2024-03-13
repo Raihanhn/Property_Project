@@ -435,3 +435,12 @@ header {
   margin-left: 10px;
   border-radius: 10px;
 }
+
+/*----------- making responsive--------------- */
+
+@media (max-width: 1000px) {
+  .container {
+    max-lines: 1rem;
+    mask-repeat: 1rem;
+  }
+}
